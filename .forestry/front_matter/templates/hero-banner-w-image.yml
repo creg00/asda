@@ -48,4 +48,5 @@ fields:
     name: button_text
     label: Button text
 pages:
+- _posts/test.md
 - leaf.md
