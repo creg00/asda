@@ -3,7 +3,7 @@ title: Moonie
 author: ''
 email: ''
 description: Yr face
-baseurl: ygelisa.xyz
+baseurl: ygelisa.netlify.xyz
 url: ygelisa.xyz
 defaults:
 - scope:
