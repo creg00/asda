@@ -4,7 +4,7 @@ author: ''
 email: ''
 description: Yr face
 baseurl: ygelisa.netlify.xyz
-url: ygelisa.xyz
+url: ygelisa.netlify.xyz
 defaults:
 - scope:
     path: ''
