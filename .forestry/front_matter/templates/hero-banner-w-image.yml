@@ -17,6 +17,7 @@ fields:
   - type: file
     name: image
     label: Image
+    default: "/uploads/2020/11/25/leaf.jpg"
   - type: text
     name: alt_text
     label: Alt Text
