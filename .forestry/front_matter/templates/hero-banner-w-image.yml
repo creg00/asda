@@ -48,5 +48,4 @@ fields:
     name: button_text
     label: Button text
 pages:
-- _posts/2020-11-25-test.md
 - leaf.md
