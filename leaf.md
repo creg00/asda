@@ -4,7 +4,7 @@ background_image: "/uploads/2020/11/25/leaf.jpg"
 image:
   image: ''
   alt_text: ''
-headline: ''
+headline: OK so now what
 content: ''
 cta:
   enabled: false
